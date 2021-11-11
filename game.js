@@ -136,9 +136,6 @@ function animate() {
       break;
     }
   }
-  // if(collision){
-  //     c
-  // }
   detectFloorCollision(megaMan, canvas.height);
 }
 
